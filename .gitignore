@@ -1,3 +1,6 @@
 __pycache__/
 system/
 config.txt
+*.log
+players_info.txt
+*.py
