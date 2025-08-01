@@ -38,10 +38,12 @@ def handle_chat_event(event_queue):
         pass
     return False
 
-def is_in_pit(coordinates, PIT_BOUNDARY = 7):
+def is_in_pit(coordinates, PIT_BOUNDARY = 7, PIT_CENTER = [0,71,0]):
     """Check if the player is within the pit boundaries."""
-    x, _, z = coordinates
-    return abs(x) < PIT_BOUNDARY and abs(z) < PIT_BOUNDARY
+    x, y, z = coordinates
+    x_pit, y_pit, z_pit = PIT_CENTER
+    y_from_pit = y - y_pit
+    return abs(x) < PIT_BOUNDARY and abs(y_from_pit) < 10 and abs(z) < PIT_BOUNDARY
 
 def player_look_at(coordinates):
     """Look at the specified coordinates, adjusting for player eye height."""
@@ -58,7 +60,7 @@ def sprint_jump_to(coordinates, is_active=True, advance = None):
     ms.player_press_sprint(is_active)
     ms.player_press_jump(is_active)
 
-def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,0,0], PIT_BOUNDARY = 7):
+def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,71,0], PIT_BOUNDARY = 7):
     """Take gladiator to pit."""
 
 
@@ -66,7 +68,7 @@ def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,0,0], PIT_BO
     current_position = position
     start_time = time.time()
     
-    if is_in_pit(current_position,PIT_BOUNDARY):
+    if is_in_pit(current_position,PIT_BOUNDARY=PIT_BOUNDARY,PIT_CENTER=PIT_CENTER):
         logging.debug('RTP:already in pit, exiting')
         return True
 
@@ -74,7 +76,7 @@ def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,0,0], PIT_BO
     sprint_jump_to(PIT_CENTER, True)
     logging.debug('RTP:sprint + jump + forward are being held down')
     
-    while not is_in_pit(current_position):
+    while not is_in_pit(current_position,PIT_BOUNDARY=PIT_BOUNDARY,PIT_CENTER=PIT_CENTER):
 
         x = current_position[0]
         z = current_position[2]
@@ -177,35 +179,44 @@ def measure_toughness(head_item, chest_item, legs_item, feet_item, health):
 
     return round(toughness_score, 3)
 
-def find_weakest_target(MAX_TARGET_DISTANCE=20, TOUGHNESS_THRESHOLD=25):
+def find_weakest_target(MAX_TARGET_DISTANCE=20, TOUGHNESS_THRESHOLD=25,PIT_CENTER=[0,71,0],target_closest=False):
 
     players_info = ms.players(nbt=True,max_distance=MAX_TARGET_DISTANCE,sort='nearest')
     for player in players_info:
         if player.name != MY_NAME:
-            nbt = parse_nbt(player.nbt)
-            
-            # Safely get equipment items
-            equipment = nbt.get('equipment', {})
-            head_item = get_item_name(equipment.get('head'))
-            chest_item = get_item_name(equipment.get('chest'))
-            legs_item = get_item_name(equipment.get('legs'))
-            feet_item = get_item_name(equipment.get('feet'))
-            health = player.health
-            name = player.name
-            position = player.position
+            try:
+                nbt = parse_nbt(player.nbt)
+                
+                # Safely get equipment items
+                equipment = nbt.get('equipment', {})
+                head_item = get_item_name(equipment.get('head'))
+                chest_item = get_item_name(equipment.get('chest'))
+                legs_item = get_item_name(equipment.get('legs'))
+                feet_item = get_item_name(equipment.get('feet'))
+                health = player.health
+                name = player.name
+                position = player.position
 
-            # Evaluate player toughness
-            toughness = measure_toughness(head_item, chest_item, legs_item, feet_item, health)
-            logging.info(f'FWT:toughness of player: {name} is {toughness} with equipment: {head_item}, {chest_item}, {legs_item}, {feet_item} and health: {health}')
-            if toughness < TOUGHNESS_THRESHOLD:
-                logging.info(f'FWT:Since toughness is less than threshold, setting {name} as target')
-                return position
-            
+                if target_closest:
+                    return position
+                else:
+                    # Evaluate player toughness
+                    toughness = measure_toughness(head_item, chest_item, legs_item, feet_item, health)
+                    logging.info(f'FWT:toughness of player: {name} is {toughness} with equipment: {head_item}, {chest_item}, {legs_item}, {feet_item} and health: {health}')
+                    if toughness < TOUGHNESS_THRESHOLD:
+                        logging.info(f'FWT:Since toughness is less than threshold, setting {name} as target')
+                        return position
+                
+            except Exception as e:
+                logging.warning(f'FWT:NBT parsing failed for player {player.name}: {type(e).__name__}. Skipping player.')
+                continue
+
     logging.info('FWT:Cannot find weak players. Wait 1 second before trying again')
+    smooth_player_look_at_fast_async(PIT_CENTER)
     #ms.execute('/respawn')
     return None
 
-def find_weakest_entity(MAX_TARGET_DISTANCE=20, TOUGHNESS_THRESHOLD=25):
+def find_weakest_entity(MAX_TARGET_DISTANCE=20, TOUGHNESS_THRESHOLD=25,PIT_CENTER=[0,71,0]):
 
     entities_info = ms.entities(nbt=True,max_distance=MAX_TARGET_DISTANCE,sort='nearest')
     for entity in entities_info:
@@ -231,7 +242,8 @@ def find_weakest_entity(MAX_TARGET_DISTANCE=20, TOUGHNESS_THRESHOLD=25):
                 return position
             
     logging.info('FWT:Cannot find weak players. Wait 1 second before trying again')
-    #ms.execute('/respawn')
+    smooth_player_look_at_fast_async(PIT_CENTER)
+    ms.execute('/respawn')
     return None
 
 def distance_from_me_2d(coordinates):

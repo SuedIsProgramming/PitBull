@@ -1,5 +1,9 @@
 import math
 import time
+import logging
+
+logger = logging.getLogger('PitBull_log')
+
 import threading
 import minescript as ms
 
@@ -30,12 +34,14 @@ def smooth_player_look_at_async(target_coordinates, duration=0.15, steps=8, inte
         _current_camera_thread.join(timeout=0.05)  # Brief wait for cleanup
     
     # Create and start new thread
+    logging.debug('SPLAA:Creating thread')
     thread = threading.Thread(
         target=_smooth_look_thread_worker,
         args=(target_coordinates, duration, steps),
         daemon=True
     )
     thread.do_run = True
+    logging.debug('Starting thread')
     thread.start()
     
     _current_camera_thread = thread
@@ -74,6 +80,8 @@ def _smooth_look_thread_worker(target_coordinates, duration, steps):
     yaw_diff = normalize_angle_difference(target_yaw - start_yaw)
     pitch_diff = target_pitch - start_pitch
     
+    logging.debug('SLTW: Begin smooth camera turning')
+
     # Perform smooth interpolation
     step_duration = duration / steps
     for i in range(steps + 1):
@@ -126,6 +134,7 @@ def smooth_player_look_at_fast_async(target_coordinates, duration=0.02, steps=8)
     Fast async version optimized for fast-paced PvP.
     Completes in ~40ms with minimal smoothing to avoid robotic snap.
     """
+    logging.debug('Entering smooth_player_look_at_async()')
     return smooth_player_look_at_async(target_coordinates, duration, steps)
 
 def adaptive_smooth_look_at_async(target_coordinates, max_duration=0.06):

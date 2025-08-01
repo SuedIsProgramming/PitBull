@@ -22,8 +22,8 @@ RUN_TO_PIT_TIMEOUT = 20 # Seconds before timeout in run_to_pit()
 TOUGHNESS_THRESHOLD = 15 + 10 # Corresponds to chainmail boots + pants + maybe iron chestplate
 ATTACKING_DISTANCE = 2 # Distance at which to attack target
 RETRY_WAIT_TIME = 1 # Wait time before retrying to search in seconds
-PIT_CENTER = [0,70,0]
-PIT_BOUNDARY = 10 # How large is the pit
+PIT_CENTER = [0,71,0]
+PIT_BOUNDARY = 20 # How large is the pit
 
 logging.info('Begin PitBull Alpha')
 
@@ -59,7 +59,7 @@ with ms.EventQueue() as event_queue:
         #     PIT_BOUNDARY = 1
         # else:
         #     PIT_BOUNDARY = 10
-        if not is_in_pit(position,PIT_BOUNDARY=PIT_BOUNDARY):
+        if not is_in_pit(position,PIT_BOUNDARY=PIT_BOUNDARY,PIT_CENTER=PIT_CENTER):
             logging.info('Not in pit! Will begin run_to_pit()')
             run_to_pit_success = run_to_pit(position,event_queue,timeout=RUN_TO_PIT_TIMEOUT,PIT_BOUNDARY = PIT_BOUNDARY)
             if not run_to_pit_success:
@@ -67,7 +67,7 @@ with ms.EventQueue() as event_queue:
                 break
         else:
             moving = False
-            target_pos = find_weakest_target(MAX_TARGET_DISTANCE,TOUGHNESS_THRESHOLD)
+            target_pos = find_weakest_target(MAX_TARGET_DISTANCE,PIT_CENTER=PIT_CENTER,target_closest=True)# find_weakest_target(MAX_TARGET_DISTANCE,TOUGHNESS_THRESHOLD,PIT_CENTER=PIT_CENTER)
             if target_pos is not None:
                     target_retries = 0 # Reset target retries
                     if distance_from_me_2d(target_pos) > ATTACKING_DISTANCE:
