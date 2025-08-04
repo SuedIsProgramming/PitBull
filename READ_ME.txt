@@ -1,4 +1,4 @@
-WORKFLOW:
+ALPHA WORKFLOW:
 
 > Setup event_queue:
 >> Register_key_listener() # Will make it so event.get() will get latest event of keystroke
@@ -46,5 +46,8 @@ While True:
 
 		>> Go into how murder works
 		
+BETA WORKFLOW:
 
+Pitbull Beta uses threading to mainstream a lot of these features. The workflow is pretty explanatory from just reading the documentation. So far, Pitbull Beta has the same functionalities
+as PitBull alpha but flows much quicker. Pitbull Beta also reads ALL chat messages, allowing for potential log scraping for session analyses
 

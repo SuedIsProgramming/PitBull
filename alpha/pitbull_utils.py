@@ -6,7 +6,7 @@ import math
 import time
 import queue
 from nbtlib import parse_nbt
-from async_look_at_utils import *
+from pitbull.pitbull_alpha.async_look_at_utils import *
 import minescript as ms # Minescript must be imported last!
 
 PIT_BOUNDARY = 5 # Pit boundary for running towards pit
@@ -60,13 +60,23 @@ def sprint_jump_to(coordinates, is_active=True, advance = None):
     ms.player_press_sprint(is_active)
     ms.player_press_jump(is_active)
 
+def snap_sprint_jump_to(coordinates, is_active=True, advance = None):
+    """Sprint and jump toward the specified coordinates."""
+    player_look_at(coordinates)
+    if advance is not None:
+        ms.player_press_forward(advance)
+    else:
+        ms.player_press_forward(is_active)
+    ms.player_press_sprint(is_active)
+    ms.player_press_jump(is_active)
+
 def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,71,0], PIT_BOUNDARY = 7):
     """Take gladiator to pit."""
 
 
     prev_position = [-6969,0,6969]
     current_position = position
-    start_time = time.time()
+    # start_time = time.time()
     
     if is_in_pit(current_position,PIT_BOUNDARY=PIT_BOUNDARY,PIT_CENTER=PIT_CENTER):
         logging.debug('RTP:already in pit, exiting')
@@ -82,12 +92,12 @@ def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,71,0], PIT_B
         z = current_position[2]
         logging.debug(f'Position is [{x:.1f},{z:.1f}]')
 
-        current_time = time.time()
-        if current_time - start_time > timeout:
-            logging.error('RTP:COULD NOT RETURN TO PIT IN GIVEN TIMEOUT. STOPPING')
-            sprint_jump_to(PIT_CENTER, False)
-            logging.debug('RTP:sprint + jump + forward are released')
-            break
+        # current_time = time.time()
+        # if current_time - start_time > timeout:
+        #     logging.error('RTP:COULD NOT RETURN TO PIT IN GIVEN TIMEOUT. STOPPING')
+        #     sprint_jump_to(PIT_CENTER, False)
+        #     logging.debug('RTP:sprint + jump + forward are released')
+        #     break
 
         handle_chat_event(event_queue)
         # Check for manual stop via key press
@@ -96,8 +106,8 @@ def run_to_pit(position, event_queue, timeout = 20, PIT_CENTER = [0,71,0], PIT_B
             logging.debug('RTP:sprint + jump + forward are released')
             return False
 
-        curr_x, _, curr_z = current_position
-        prev_x, _, prev_z = prev_position
+        # curr_x, _, curr_z = current_position
+        # prev_x, _, prev_z = prev_position
 
         # If I not moving, will attempt to run again
         if current_position == prev_position:

@@ -1,0 +1,1313 @@
+[INFO: 08/03/2025 05:37:45 PM] Begin PitBull Alpha
+[DEBUG: 08/03/2025 05:37:45 PM] Initialized EventQueue
+[DEBUG: 08/03/2025 05:37:45 PM] Initialized key listener
+[DEBUG: 08/03/2025 05:37:45 PM] Intitialized chat listener
+[INFO: 08/03/2025 05:37:45 PM] Entering main loop
+[INFO: 08/03/2025 05:37:45 PM] Not in pit! Will begin run_to_pit()
+[DEBUG: 08/03/2025 05:37:45 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:45 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:45 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:45 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:45 PM] RTP:sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:45 PM] Position is [16.5,-16.8]
+[DEBUG: 08/03/2025 05:37:45 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:45 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:45 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:45 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:45 PM] Position is [16.5,-17.5]
+[DEBUG: 08/03/2025 05:37:45 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:45 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:45 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:45 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [16.6,-18.2]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [16.7,-19.2]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [16.8,-21.2]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [16.9,-22.5]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [16.9,-23.7]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.0,-24.9]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.2,-27.6]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.3,-28.9]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.4,-30.3]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.6,-33.1]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.7,-34.5]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.8,-35.9]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [17.9,-38.7]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [18.0,-40.0]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:46 PM] Position is [18.1,-41.4]
+[DEBUG: 08/03/2025 05:37:46 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:46 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:46 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:46 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.3,-43.9]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.4,-45.2]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.4,-46.4]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.6,-48.8]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.7,-49.8]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.7,-50.9]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.9,-52.9]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [18.9,-53.8]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.0,-54.8]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.1,-55.6]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.2,-57.2]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.2,-57.9]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.3,-58.6]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.3,-59.4]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.4,-60.0]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:47 PM] Position is [19.4,-61.3]
+[DEBUG: 08/03/2025 05:37:47 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:47 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:47 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:47 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [19.5,-61.9]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [19.5,-62.4]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [19.5,-63.0]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[INFO: 08/03/2025 05:37:48 PM] Chat message detected: STREAK! of 5 kills by [120] origmas
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.8,-13.8]
+[WARNING: 08/03/2025 05:37:48 PM] Not moving, will attempt to run again
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.6,-13.5]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.5,-13.3]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.4,-13.2]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.3,-13.0]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.1,-12.6]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [14.0,-12.4]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:48 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:48 PM] Position is [13.8,-12.2]
+[DEBUG: 08/03/2025 05:37:48 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:48 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:48 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [13.7,-12.0]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [13.4,-11.6]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [13.3,-11.4]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [13.0,-10.9]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [12.8,-10.6]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [12.4,-10.1]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [12.2,-9.9]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [12.0,-9.6]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [11.8,-9.4]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [11.4,-8.9]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [11.2,-8.7]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [11.0,-8.4]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [10.8,-8.2]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [10.2,-7.5]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [10.0,-7.2]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:49 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:49 PM] Position is [9.7,-7.0]
+[DEBUG: 08/03/2025 05:37:49 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:49 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:49 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [9.3,-6.5]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [9.0,-6.3]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [8.8,-6.0]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [8.4,-5.6]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [8.1,-5.4]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [7.9,-5.2]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [7.4,-4.8]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [6.9,-4.3]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [6.6,-4.1]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [6.3,-3.9]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [6.1,-3.7]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [5.8,-3.5]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [5.3,-3.2]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [5.0,-3.0]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [4.8,-2.8]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:50 PM] Position is [4.5,-2.6]
+[DEBUG: 08/03/2025 05:37:50 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:50 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:50 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:50 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [4.3,-2.4]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [4.0,-2.3]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [3.5,-1.9]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [3.3,-1.8]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [3.0,-1.6]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [2.7,-1.4]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [2.5,-1.3]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [2.2,-1.1]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [1.7,-0.8]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [1.5,-0.7]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [1.2,-0.5]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Position is [1.0,-0.4]
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[INFO: 08/03/2025 05:37:51 PM] RTP:In pit, stopping movement
+[DEBUG: 08/03/2025 05:37:51 PM] Loop time = 5.811327695846558 s
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[INFO: 08/03/2025 05:37:51 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:51 PM] Loop time = 0.0671536922454834 s
+[INFO: 08/03/2025 05:37:51 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:51 PM] Loop time = 0.06930661201477051 s
+[INFO: 08/03/2025 05:37:51 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:51 PM] Loop time = 0.06762814521789551 s
+[INFO: 08/03/2025 05:37:51 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:51 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:51 PM] Loop time = 0.06856322288513184 s
+[INFO: 08/03/2025 05:37:51 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:51 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:51 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:51 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:51 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.07013297080993652 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.07040214538574219 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.0675806999206543 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06804203987121582 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06589579582214355 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06713032722473145 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06661438941955566 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06676244735717773 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.0673532485961914 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06723308563232422 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06902933120727539 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06760692596435547 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.0662381649017334 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06716370582580566 s
+[INFO: 08/03/2025 05:37:52 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:52 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:52 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:52 PM] Loop time = 0.06717133522033691 s
+[INFO: 08/03/2025 05:37:52 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:52 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:52 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:52 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06999397277832031 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06718134880065918 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06740593910217285 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06939888000488281 s
+[INFO: 08/03/2025 05:37:53 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06507682800292969 s
+[INFO: 08/03/2025 05:37:53 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06717753410339355 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06871604919433594 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06780862808227539 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06745672225952148 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06707191467285156 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06783628463745117 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.0676727294921875 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06727790832519531 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06813192367553711 s
+[INFO: 08/03/2025 05:37:53 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:53 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:53 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:53 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:53 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:53 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:53 PM] Loop time = 0.06837224960327148 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06803297996520996 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06779074668884277 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06895017623901367 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06737732887268066 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.0662989616394043 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06976437568664551 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06682372093200684 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06724214553833008 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06795501708984375 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06879258155822754 s
+[INFO: 08/03/2025 05:37:54 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.07053256034851074 s
+[INFO: 08/03/2025 05:37:54 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06448721885681152 s
+[INFO: 08/03/2025 05:37:54 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06703376770019531 s
+[INFO: 08/03/2025 05:37:54 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:54 PM] Loop time = 0.06898927688598633 s
+[INFO: 08/03/2025 05:37:54 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:54 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:54 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:54 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:54 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:54 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06587505340576172 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06698393821716309 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06803345680236816 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06714248657226562 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06750726699829102 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06844115257263184 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06545233726501465 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06743454933166504 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06955838203430176 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06586980819702148 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06900167465209961 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06768465042114258 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06804275512695312 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06740593910217285 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:55 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:55 PM] Loop time = 0.06887054443359375 s
+[INFO: 08/03/2025 05:37:55 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:55 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:55 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:55 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:55 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06617140769958496 s
+[INFO: 08/03/2025 05:37:56 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06738924980163574 s
+[INFO: 08/03/2025 05:37:56 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06653261184692383 s
+[INFO: 08/03/2025 05:37:56 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06886172294616699 s
+[INFO: 08/03/2025 05:37:56 PM] Chat message detected: Â§5[Â§eÂ§eXXÂ§5-Â§bÂ§l120Â§5] Â§a[VIPÂ§6+Â§a] Starrex888Â§f: ye
+[INFO: 08/03/2025 05:37:56 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06729412078857422 s
+[INFO: 08/03/2025 05:37:56 PM] Chat message detected: Â§aÂ§lKILL! Â§7on Â§e[Â§fÂ§l114Â§e] Â§aidonthitselect Â§b+20XP Â§6+Â§622.80g
+[INFO: 08/03/2025 05:37:56 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06545352935791016 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06825637817382812 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06933236122131348 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06562113761901855 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06682467460632324 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06919598579406738 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06612157821655273 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06958317756652832 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.0663304328918457 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:56 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:56 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:56 PM] Loop time = 0.06954216957092285 s
+[INFO: 08/03/2025 05:37:56 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:56 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:56 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:56 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06661343574523926 s
+[INFO: 08/03/2025 05:37:57 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06748032569885254 s
+[INFO: 08/03/2025 05:37:57 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06856942176818848 s
+[INFO: 08/03/2025 05:37:57 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06625247001647949 s
+[INFO: 08/03/2025 05:37:57 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06631016731262207 s
+[INFO: 08/03/2025 05:37:57 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06827259063720703 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06858444213867188 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06564855575561523 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06775760650634766 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06980013847351074 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06683540344238281 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06760668754577637 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.07149600982666016 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06746745109558105 s
+[INFO: 08/03/2025 05:37:57 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:57 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:57 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:57 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:57 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:57 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:57 PM] Loop time = 0.06715965270996094 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06775760650634766 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.0675804615020752 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06709146499633789 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06697750091552734 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06624817848205566 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06706929206848145 s
+[INFO: 08/03/2025 05:37:58 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06626272201538086 s
+[INFO: 08/03/2025 05:37:58 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06745290756225586 s
+[INFO: 08/03/2025 05:37:58 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06778812408447266 s
+[INFO: 08/03/2025 05:37:58 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06718254089355469 s
+[INFO: 08/03/2025 05:37:58 PM] Chat message detected: STREAK! of 5 kills by [120] MirroFx
+[INFO: 08/03/2025 05:37:58 PM] Target is too far away, running closer
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] Not moving: sprint + jump + forward are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.07024097442626953 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06731629371643066 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06606674194335938 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06717419624328613 s
+[INFO: 08/03/2025 05:37:58 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:58 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:58 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:58 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:58 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:58 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:58 PM] Loop time = 0.06923460960388184 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06498956680297852 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06979942321777344 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06753134727478027 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06633782386779785 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06765222549438477 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.0660250186920166 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06793069839477539 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06697821617126465 s
+[INFO: 08/03/2025 05:37:59 PM] Target is within reach, attacking
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] sprint + jump are being held down
+[DEBUG: 08/03/2025 05:37:59 PM] Loop time = 0.06735801696777344 s
+[INFO: 08/03/2025 05:37:59 PM] Chat message detected: Â§aÂ§lASSIST! Â§743% on Â§e[Â§232Â§e] Â§aRootlet_2 Â§b+4XP Â§6+Â§65.96g
+[INFO: 08/03/2025 05:37:59 PM] main:P key detected, stopping
+[DEBUG: 08/03/2025 05:37:59 PM] Entering smooth_player_look_at_async()
+[DEBUG: 08/03/2025 05:37:59 PM] SPLAA:Creating thread
+[DEBUG: 08/03/2025 05:37:59 PM] Starting thread
+[DEBUG: 08/03/2025 05:37:59 PM] SLTW: Begin smooth camera turning
+[DEBUG: 08/03/2025 05:37:59 PM] RTP:sprint + jump + forward are released

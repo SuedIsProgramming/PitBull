@@ -4,13 +4,13 @@ logger = logging.getLogger('PitBull_log') # Setup logging
 logging.basicConfig(filename='minescript/PitBull.log',
                     encoding='utf-8',
                     filemode='w',
-                    level=logging.DEBUG,
+                    level=logging.ERROR,
                     format='[%(levelname)s: %(asctime)s] %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S %p')
 
 import time
 from pitbull_utils import *
-from async_look_at_utils import *
+from pitbull.pitbull_alpha.async_look_at_utils import *
 import minescript as ms # Minescript must be imported last!
 
 P_KEY = 80 # Found at (https://www.glfw.org/docs/3.4/group__keys.html)
@@ -22,8 +22,8 @@ RUN_TO_PIT_TIMEOUT = 20 # Seconds before timeout in run_to_pit()
 TOUGHNESS_THRESHOLD = 15 + 10 # Corresponds to chainmail boots + pants + maybe iron chestplate
 ATTACKING_DISTANCE = 2 # Distance at which to attack target
 RETRY_WAIT_TIME = 1 # Wait time before retrying to search in seconds
-PIT_CENTER = [0,71,0]
-PIT_BOUNDARY = 20 # How large is the pit
+PIT_CENTER = [0,-60,0] # Center of pit in my world
+PIT_BOUNDARY = 6 # How large is the pit
 
 logging.info('Begin PitBull Alpha')
 
@@ -35,7 +35,6 @@ with ms.EventQueue() as event_queue:
     event_queue.register_chat_listener()
     logging.debug('Intitialized chat listener')
 
-    moving = False
     target_retries = 0
     logging.info('Entering main loop')
     while True:
@@ -44,30 +43,27 @@ with ms.EventQueue() as event_queue:
             logging.warning('MAX TARGET RETRIES REACHED, STOPPING')
             sprint_jump_to(PIT_CENTER, False)
             logging.debug('RTP:sprint + jump + forward are released')
+            ms.execute('/gamemode creative')
             break
         
         handle_chat_event(event_queue)
         if handle_key_event(event_queue):
             sprint_jump_to(PIT_CENTER, False)
             logging.debug('RTP:sprint + jump + forward are released')
+            ms.execute('/gamemode creative')
             break
 
         position = ms.player_position()
-        # logging.debug(f'height is: y={position[1]:.1f}')
-        # if position[1] > 90: # If above pit, make pit boundary smaller to increase time falling:
-        #     logging.debug('Above pit, will make pit boundary smaller')
-        #     PIT_BOUNDARY = 1
-        # else:
-        #     PIT_BOUNDARY = 10
-        if not is_in_pit(position,PIT_BOUNDARY=PIT_BOUNDARY,PIT_CENTER=PIT_CENTER):
+        if not is_in_pit(position):
             logging.info('Not in pit! Will begin run_to_pit()')
-            run_to_pit_success = run_to_pit(position,event_queue,timeout=RUN_TO_PIT_TIMEOUT,PIT_BOUNDARY = PIT_BOUNDARY)
+            run_to_pit_success = run_to_pit(position,event_queue,timeout=RUN_TO_PIT_TIMEOUT,PIT_CENTER=PIT_CENTER,PIT_BOUNDARY = 7)
             if not run_to_pit_success:
                 #ms.execute('/respawn')
+                ms.execute('/gamemode creative')
                 break
         else:
             moving = False
-            target_pos = find_weakest_target(MAX_TARGET_DISTANCE,PIT_CENTER=PIT_CENTER,target_closest=True)# find_weakest_target(MAX_TARGET_DISTANCE,TOUGHNESS_THRESHOLD,PIT_CENTER=PIT_CENTER)
+            target_pos = find_weakest_entity(MAX_TARGET_DISTANCE,TOUGHNESS_THRESHOLD)
             if target_pos is not None:
                     target_retries = 0 # Reset target retries
                     if distance_from_me_2d(target_pos) > ATTACKING_DISTANCE:
@@ -92,9 +88,7 @@ with ms.EventQueue() as event_queue:
                         moving = False
             else:
                 target_retries += 1
-                ms.player_press_forward(False)
-                ms.player_press_sprint(False)
-                ms.player_press_jump(False)
+                sprint_jump_to(PIT_CENTER, False)
                 logging.debug('sprint + jump + forward are released')
                 moving = False
                 logging.debug('Sleeping for a second')
@@ -102,7 +96,7 @@ with ms.EventQueue() as event_queue:
         
         loop_end_t = time.time()
 
-        logging.debug(f'Loop time = {loop_end_t-loop_start_t} s')
+        logging.error(f'Loop time = {loop_end_t-loop_start_t} s')
         # time.sleep(LOOP_RATE)
 
         
