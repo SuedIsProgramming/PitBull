@@ -5,7 +5,7 @@ logger = logging.getLogger('PitBull_log') # Setup logging
 
 from datetime import datetime
 from typing import Dict, Any
-
+#analyze robot
 def analyze_pitbull_log(log_file_path: str) -> Dict[str, Any]:
     """
     Analyzes a PitBull log file and calculates combat statistics.
